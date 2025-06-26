@@ -1,4 +1,4 @@
-# Shop Admin - 电商管理系统
+# RAG_shop 带有人工智能助手的商城系统
 
 一个基于 Vue 3 + Vite + Element Plus 构建的现代化电商后台管理系统，提供完整的商城管理功能。带有RAG功能的绿洲商城（可支持仅LLM和LLM+RAG两种形式）。
 

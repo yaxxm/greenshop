@@ -1,0 +1,5 @@
+# 忽略特定文件
+src/pages/login.vue
+
+# 忽略所有使用Tailwind CSS的文件
+**/*.vue
